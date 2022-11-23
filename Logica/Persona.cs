@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Logica
 {
-    public class Class1
+    internal class Persona
     {
+        public int dni { get; set; }
+        public string nombre { get; set; }
+        public string apellido { get; set; }
     }
 }
