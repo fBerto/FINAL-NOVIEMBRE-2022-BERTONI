@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Logica
 {
+    
+//CORRECCIONES: El proveedor no es una persona.
     internal class Provedor : Persona
     {
         public int codigo { get; set; }

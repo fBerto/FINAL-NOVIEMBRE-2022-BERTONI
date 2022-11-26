@@ -11,5 +11,7 @@ namespace Logica
         public string tipo { get; set; }
         public int costo { get; set; }
         //public DateTime fechaVencimiento { get; set; }
+        
+//CORRECCIONES: Falta el día de vencimiento
     }
 }
